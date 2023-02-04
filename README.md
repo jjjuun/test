@@ -1,7 +1,7 @@
 # 目的
-Shopify CLIを使って独自テーマを開発するための手順。
-※shopifyの無料テーマであるDawnを元に開発を進める。
-※特定のストアからDawnテーマをpull,VScode上で開発,pushまで流れを含める。
+Shopify CLIを使って独自テーマを開発するための手順。  
+※shopifyの無料テーマであるDawnを元に開発を進める。  
+※特定のストアからDawnテーマをpull,VScode上で開発,pushまで流れを含める。  
 
 # 前提環境
 OS：Windows10
